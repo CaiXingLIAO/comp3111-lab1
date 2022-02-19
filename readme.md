@@ -1,4 +1,4 @@
 Name: LIAO, Caixing
 SID: 20562729
 
-!(/Users/admin/Desktop/COMP3111/Lab1/Screenshot.png)
+![Screenshot](https://github.com/CaiXingLIAO/comp3111-lab1/blob/master/Screenshot.png)
